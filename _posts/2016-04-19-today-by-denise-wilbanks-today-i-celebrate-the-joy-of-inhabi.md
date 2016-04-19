@@ -1,0 +1,27 @@
+---
+inFeed: true
+hasPage: true
+inNav: false
+inLanguage: null
+starred: false
+keywords: []
+description: 'Today By Denise Wilbanks Today I celebrate the joy of inhabiting my soul, the space between infinity and yesterday Today I cheer to those who came before me and to whom I owe the pleasure of engraving their breath upon my forehead Today the world stands still as I embrace the sound of swaying waves upon oceans of wisdom in the eternal ebb and flow Today as always love and hate, joy and suffering, fear and trust hold hands in the ever present exchange of impressions contrasting the palate of life’s canvas in an attempt to be seen Today I celebrate life Today the mysteries of the universe become clear to me, they make themselves known through the prism of my mind Today I acknowledge that my body is merely a transient tool working in collaboration with infinite intelligence to expand the experience of consciousness Today I invite every aspect of my creative will to lift beyond the oppression of limiting beliefs and shout out a resounding YES!!!! Today I liberate my senses ushering in the fountain of abundant love in the vastness of now Today I celebrate life Today nothing is of great significance, and the stillness of thought sings its very own lullaby Today I surrender all expectations, allowing the creative forces to unfold with fluid brilliance in its magnificent dance Today all is in harmony as I once again conceive that dissonance and separation are the result of my own imbalance and distrust Today there are no cries heard upon the misty hills of indifference, and all mouths are fed by the everlasting current emanating from source Today I celebrate life Today I fly '
+datePublished: '2016-04-19T19:20:45.163Z'
+dateModified: '2016-04-19T19:20:44.904Z'
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
+title: ''
+author: []
+sourcePath: _posts/2016-04-19-today-by-denise-wilbanks-today-i-celebrate-the-joy-of-inhabi.md
+published: true
+url: today-by-denise-wilbanks-today-i-celebrate-the-joy-of-inhabi/index.html
+_type: Article
+
+---
+Today By Denise Wilbanks Today I celebrate the joy of inhabiting my soul, the space between infinity and yesterday Today I cheer to those who came before me and to whom I owe the pleasure of engraving their breath upon my forehead Today the world stands still as I embrace the sound of swaying waves upon oceans of wisdom in the eternal ebb and flow Today as always love and hate, joy and suffering, fear and trust hold hands in the ever present exchange of impressions contrasting the palate of life's canvas in an attempt to be seen Today I celebrate life Today the mysteries of the universe become clear to me, they make themselves known through the prism of my mind Today I acknowledge that my body is merely a transient tool working in collaboration with infinite intelligence to expand the experience of consciousness Today I invite every aspect of my creative will to lift beyond the oppression of limiting beliefs and shout out a resounding YES!!!! Today I liberate my senses ushering in the fountain of abundant love in the vastness of now Today I celebrate life Today nothing is of great significance, and the stillness of thought sings its very own lullaby Today I surrender all expectations, allowing the creative forces to unfold with fluid brilliance in its magnificent dance Today all is in harmony as I once again conceive that dissonance and separation are the result of my own imbalance and distrust Today there are no cries heard upon the misty hills of indifference, and all mouths are fed by the everlasting current emanating from source Today I celebrate life Today I fly 
+
+Today By Denise Wilbanks Today I celebrate the joy of inhabiting my soul, the space between infinity and yesterday Today I cheer to those who came before me and to whom I owe the pleasure of engraving their breath upon my forehead Today the world stands still as I embrace the sound of swaying waves upon oceans of wisdom in the eternal ebb and flow Today as always love and hate, joy and suffering, fear and trust hold hands in the ever present exchange of impressions contrasting the palate of life's canvas in an attempt to be seen Today I celebrate life Today the mysteries of the universe become clear to me, they make themselves known through the prism of my mind Today I acknowledge that my body is merely a transient tool working in collaboration with infinite intelligence to expand the experience of consciousness Today I invite every aspect of my creative will to lift beyond the oppression of limiting beliefs and shout out a resounding YES!!!! Today I liberate my senses ushering in the fountain of abundant love in the vastness of now Today I celebrate life Today nothing is of great significance, and the stillness of thought sings its very own lullaby Today I surrender all expectations, allowing the creative forces to unfold with fluid brilliance in its magnificent dance Today all is in harmony as I once again conceive that dissonance and separation are the result of my own imbalance and distrust Today there are no cries heard upon the misty hills of indifference, and all mouths are fed by the everlasting current emanating from source Today I celebrate life Today I fly
