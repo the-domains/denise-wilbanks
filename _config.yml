@@ -1,0 +1,28 @@
+name: Denise Wilbanks
+favicon: null
+layout_spectrum: 0.3015296075027436
+typography_spectrum: 0.8108361531049013
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.19519239268265665
+  lightness: 0.506522917188704
+  saturation: 0.5282187219709158
+  rhythmicContrast: 0.8287765688728541
+purpose: []
